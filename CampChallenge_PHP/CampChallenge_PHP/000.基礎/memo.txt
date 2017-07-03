@@ -1,1 +1,4 @@
-test
+Windows 8.1
+プロセッサ：Ｉｎｔｅｌ(R) Core i7-3770 CPU @ 3.40GHz
+実装メモリ(RAM):16.0GB
+システムの種類：64Bit
