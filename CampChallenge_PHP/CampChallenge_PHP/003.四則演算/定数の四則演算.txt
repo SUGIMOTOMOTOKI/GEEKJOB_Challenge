@@ -1,0 +1,12 @@
+<?php
+
+const BASE = 10;
+$num = 5;
+
+$tasu = BASE + $num;
+
+$hiku = BASE - $num;
+
+$kake = BASE * $num;
+
+$wari = BASE / $num;

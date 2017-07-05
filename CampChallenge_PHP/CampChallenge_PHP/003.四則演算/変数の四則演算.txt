@@ -1,0 +1,12 @@
+<?php
+
+$num1 = 10;
+$num2 = 2;
+
+$tasu = $num1 + $num2;
+
+$hiku = $num1 - $num2;
+
+$kake = $num1 * $num2;
+
+$wari = $num1 / $num2;
